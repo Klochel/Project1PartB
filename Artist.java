@@ -119,7 +119,7 @@ public class Artist
         /**Totals*/
         int finalArtistCount = artistCounter-1;
         System.out.println("\nTotal artists: " + finalArtistCount);
-        System.out.println("Total amount of artwork: " + artCounter);
-        System.out.println("Total appraised value of all artwork: $" + totalAppraised);
+        System.out.println("\nTotal amount of artwork: " + artCounter);
+        System.out.println("\nTotal appraised value of all artwork: $" + totalAppraised);
     }
 }
